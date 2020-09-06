@@ -11,4 +11,5 @@ This repository contains a single file, a script for gathering the basic configu
 Please refer to your lab instructions for definitive directions. In general, clone this repository to a new repository in your user space.
 
 ## My Edit
-Getting this far was not easy at all but we made it.
+Getting this far was not easy at all but we made it. 
+https://awonab.github.io/lab-1/
